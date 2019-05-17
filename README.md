@@ -1,4 +1,4 @@
-#How To Install
+# How To Install
 <p>
 pkg update && pkg upgrade
 <br>
