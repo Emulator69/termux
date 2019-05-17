@@ -1,4 +1,5 @@
 # How To Install
+<img src="https://github.com/gellmoxer/pic/gellmoxer.png" width="300px">
 <p>
 pkg update && pkg upgrade
 <br>
