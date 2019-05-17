@@ -1,17 +1,17 @@
 #How To Install
 <p>
 pkg update && pkg upgrade
-<p>
+<br>
 pkg install git
-<p>
+<br>
 git clone https://github.com/gellmoxer/termux
-<p>
+<br>
 cd termux
-<p>
+<br>
 chmod +x ToolsGM.sh
-<p>
+<br>
 mv ToolsGM.sh ../
-<p>
+<br>
 cd $home
-<p>
+<br>
 ./ToolsGM.sh
