@@ -16,3 +16,5 @@ mv ToolsGM.sh ../
 cd $home
 <br>
 ./ToolsGM.sh
+<p>
+  <img src="https://github.com/gellmoxer/pic/blob/master/ssg.jpg" width="120px">
