@@ -17,4 +17,4 @@ cd $home
 <br>
 ./ToolsGM.sh
 <p>
-  <img src="https://github.com/gellmoxer/pic/blob/master/ssg.jpg" width="120px">
+  <img src="https://github.com/gellmoxer/pic/blob/master/ssh.jpg" width="120px">
