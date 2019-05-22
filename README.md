@@ -18,5 +18,4 @@ cd $home
 ./ToolsGM.sh
 <p>
   <img src="https://github.com/gellmoxer/pic/blob/master/ssh.jpg" width="120px" alt="screenshot">
-  <h3>INDONESIA</h3> <br>
-<img src="https://github.com/gellmoxer/pic/blob/master/garuda.png" width="140px" alt="garuda">
+<img src="https://github.com/gellmoxer/pic/blob/master/garudaind.png" width="140px" alt="garuda">
