@@ -17,5 +17,5 @@ cd $home
 <br>
 ./ToolsGM.sh
 <p>
-  <img src="https://github.com/gellmoxer/pic/blob/master/ssh.jpg" width="120px" alt="screenshot">
+  <img src="https://github.com/gellmoxer/pic/blob/master/ssn.jpg" width="120px" alt="screenshot">
 <img src="https://github.com/gellmoxer/pic/blob/master/garudaind.png" width="200px" alt="garuda">
