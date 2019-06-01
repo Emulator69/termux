@@ -9,13 +9,7 @@ git clone https://github.com/gellmoxer/termux
 <br>
 cd termux
 <br>
-chmod +x ToolsGM.sh
-<br>
-mv ToolsGM.sh ../
-<br>
-cd $home
-<br>
-./ToolsGM.sh
+bash mulai.sh
 <p>
   <img src="https://github.com/gellmoxer/pic/blob/master/ssn.jpg" width="120px" alt="screenshot">
 <img src="https://github.com/gellmoxer/pic/blob/master/garudaind.png" width="200px" alt="garuda">
